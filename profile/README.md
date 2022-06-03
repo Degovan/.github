@@ -1,7 +1,7 @@
 ## TOGHETHER WE CAN RULE THE WORLD 👊
 
 
-## Contributor
+## Top Contributor
 <table>
   <tr>
     <td align="center">
