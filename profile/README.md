@@ -21,11 +21,11 @@
   </tr>
 <table>
   
-  | Name     | Rank  |      | Expert
-| :---        |    :----:   |          ---: |
-| Ahmad Irsyadul ibad     |  #1       | Backend Developer   |
-| Dafrin Maulana  | #2       | Backend Developer      |
-| Dafrin Maulana  | #3       | Frontend Developer      |
+| Name                    | Rank        | Favorite Framework  |
+| :---                    |    :----:   |               ---:  |
+| Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5|
+| Dafrin Maulana          | #2          | AdonisJs, Laravel   |
+| Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS |
 <!--
 
 **Here are some ideas to get you started:**
