@@ -7,16 +7,16 @@
     <td align="center">
       <a href="https://github.com/destroylord"><img src="https://avatars.githubusercontent.com/u/36498044?v=4" width="100px;" alt=""/>
         <br />
-        <sub><b>Destroylord</b></sub></a><br />
+        <sub><b>Dafrin Maulana</b></sub></a><br />
     </td>
     <td align="center">
       <a href="https://github.com/irsyadulibad"><img src="https://avatars1.githubusercontent.com/u/47577443?=400&v=4" width="100px;" alt=""/>
         <br />
-        <sub><b>Irsyad</b></sub></a><br />
+        <sub><b>Ahmad Irsyadulibad </b></sub></a><br />
     </td>
     <td align="center"><a href="https://github.com/sahrullahh"><img src="https://avatars0.githubusercontent.com/u/49519441?=400&v=4" width="100px;" alt=""/>
       <br />
-      <sub><b>Sahrul</b></sub></a><br />
+      <sub><b>Mohammad Sahrullah</b></sub></a><br />
     </td>
   </tr>
 <table>
