@@ -20,6 +20,12 @@
     </td>
   </tr>
 <table>
+  
+  | Name     | Rank  |      | Expert
+| :---        |    :----:   |          ---: |
+| Ahmad Irsyadul ibad     |  #1       | Backend Developer   |
+| Dafrin Maulana  | #2       | Backend Developer      |
+| Dafrin Maulana  | #3       | Frontend Developer      |
 <!--
 
 **Here are some ideas to get you started:**
