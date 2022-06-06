@@ -18,6 +18,10 @@
       <br />
       <sub><b>Mohammad Sahrullah</b></sub></a><br />
     </td>
+    <td align="center"><a href="https://github.com/MyFRA"><img src="https://avatars0.githubusercontent.com/u/60420319?=400&v=4" width="100px;" alt=""/>
+      <br />
+      <sub><b>Tomy</b></sub></a><br />
+    </td>
   </tr>
 <table>
   
@@ -26,6 +30,7 @@
 | Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5|
 | Dafrin Maulana          | #2          | AdonisJs, Laravel   |
 | Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS |
+| Tomy Wibowo             | #4          | Laravel, Nuxtjs, TailwindCSS, Bootstrap 5  |
 <!--
 
 **Here are some ideas to get you started:**
