@@ -27,9 +27,9 @@
   
 | Name                    | Rank        | Favorite Framework  |
 | :---                    |    :----:   |               ---:  |
-| Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5|
+| Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5, |
 | Dafrin Maulana          | #2          | AdonisJs, Laravel   |
-| Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS |
+| Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS, Laravel,Bulma |
 | Tomy Wibowo             | #4          | Laravel, Nuxtjs, TailwindCSS, Bootstrap 5  |
 <!--
 
