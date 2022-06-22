@@ -30,7 +30,7 @@
 | Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5, |
 | Dafrin Maulana          | #2          | AdonisJs, Laravel   |
 | Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS, Laravel, BulmaCSS |
-| Tomy Wibowo             | #4          | Laravel, Nuxtjs, TailwindCSS, Bootstrap 5  |
+| Tomy Wibowo             | #4          | Laravel, ReactJS, React Native, TailwindCSS, Bootstrap 5  |
 <!--
 
 **Here are some ideas to get you started:**
