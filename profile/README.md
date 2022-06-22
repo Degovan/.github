@@ -1,7 +1,15 @@
 ## TOGHETHER WE CAN RULE THE WORLD 👊
 
+#### Top Contributor at Degovan
 
-## Top Contributor
+| Name                    | Rank        | Favorite Framework  |
+| :---                    |    :----:   |               ---:  |
+| Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5, Codeigniter 4|
+| Dafrin Maulana          | #2          | AdonisJs, Laravel, Next Js|
+| Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS, Laravel, BulmaCSS, Express |
+| Tomy Wibowo             | #4          | Laravel, ReactJS, React Native, TailwindCSS, Bootstrap 5  |
+| Muhammad Mah Bubi Bashar          | #5          | Gin Golang, Flutter |
+
 <table>
   <tr>
     <td align="center">
@@ -25,17 +33,11 @@
      <td align="center"><a href="https://github.com/mahbubi69"><img src="https://avatars.githubusercontent.com/u/80621275?v=4" width="100px;" alt=""/>
       <br />
       <sub><b>Muhammad Mah Bubi Bashar</b></sub></a><br />
-    </td>-
+    </td>
   </tr>
 <table>
   
-| Name                    | Rank        | Favorite Framework  |
-| :---                    |    :----:   |               ---:  |
-| Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5, Codeigniter 4|
-| Dafrin Maulana          | #2          | AdonisJs, Laravel, Next Js|
-| Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS, Laravel, BulmaCSS, Express |
-| Tomy Wibowo             | #4          | Laravel, ReactJS, React Native, TailwindCSS, Bootstrap 5  |
-| Muhammad Mah Bubi Bashar          | #5          | Gin Golang, Flutter |
+
 <!--
 
 **Here are some ideas to get you started:**
