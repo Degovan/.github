@@ -8,7 +8,7 @@
 | Fahmi Dafrin Maulana          | #2          | AdonisJs, Laravel, Next Js|
 | Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS, Laravel, BulmaCSS, Express |
 | Tomy Wibowo             | #4          | Laravel, ReactJS, React Native, TailwindCSS, Bootstrap 5  |
-| Muhammad Mahbubi_Bashar          | #5          | Gin Golang, Flutter |
+| R.M.Mahbubi_Bashar      | #5          | Gin Golang, Flutter |
 
 <table>
   <tr>
