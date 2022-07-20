@@ -5,7 +5,7 @@
 | Name                    | Rank        | Favorite Framework  |
 | :---                    |    :----:   |               ---:  |
 | Ahmad Irsyadul ibad     | #1          | Laravel, Bootstrap 5, Codeigniter 4|
-| Fahmi Dafrin Maulana          | #2          | AdonisJs, Laravel, Next Js|
+| Fahmi Dafrin Maulana          | #2          | Reactjs, Next Js, AdonisJs, Codeigniter, Laravel|
 | Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, TailwindCSS, Laravel, BulmaCSS, Express |
 | Tomy Wibowo             | #4          | Laravel, ReactJS, React Native, TailwindCSS, Bootstrap 5  |
 | R.M.Mahbubi_Bashar      | #5          | Gin Golang, Flutter |
