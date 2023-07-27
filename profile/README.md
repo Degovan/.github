@@ -32,7 +32,7 @@
     </td>
      <td align="center"><a href="https://github.com/mahbubi69"><img src="https://avatars.githubusercontent.com/u/80621275?v=4" width="100px;" alt=""/>
       <br />
-      <sub><b>Muhammad Mahbubi_Bashar</b></sub></a><br />
+      <sub><b>Mahbubi</b></sub></a><br />
     </td>
   </tr>
 <table>
