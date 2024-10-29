@@ -8,7 +8,6 @@
 | Fahmi Dafrin Maulana          | #2          | TailwindCSS, Reactjs, Next Js, AdonisJs, Codeigniter, Laravel|
 | Mohammad Sahrullah      | #3          | Vuejs, Nuxtjs, Reactjs, Nextjs TailwindCSS, Laravel, BulmaCSS, Express |
 | Tomy Wibowo             | #4          | Laravel, ReactJS, React Native, TailwindCSS, Bootstrap 5  |
-| Mahbubi                 | #5          | Gin Golang, Flutter |
 
 <table>
   <tr>
@@ -29,10 +28,6 @@
     <td align="center"><a href="https://github.com/MyFRA"><img src="https://avatars0.githubusercontent.com/u/60420319?=400&v=4" width="100px;" alt=""/>
       <br />
       <sub><b> Tomy Wibowo  </b></sub></a><br />
-    </td>
-     <td align="center"><a href="https://github.com/mahbubi69"><img src="https://avatars.githubusercontent.com/u/80621275?v=4" width="100px;" alt=""/>
-      <br />
-      <sub><b>Mahbubi</b></sub></a><br />
     </td>
   </tr>
 <table>
