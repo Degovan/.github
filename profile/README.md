@@ -1,4 +1,4 @@
-## TOGHETHER WE CAN RULE THE WORLD 👊
+## TOGETHER WE CAN RULE THE WORLD 👊
 
 #### Top Contributor at Degovan
 
